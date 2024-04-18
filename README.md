@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @raimondasruzgas
-- 👀 I’m interested in new job by .NET
-- 🌱 I’m finished Baltic Institute of Technology .NET programmer
-- 🌱 I'm starting to learn in Vilnius Codding School Fulstack,JavaScript
+- 👀 I’m interested in new job by Junior Front_end developer
+- 🌱 I’m finished:
+- Baltic Institute of Technology .NET programmer
+- Vilnius Codding School JavaScript Fulstack
 - 📫 How to reach me ...
 raimondas.ruzgas@gmail.com
 +37064638292
